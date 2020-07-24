@@ -1,0 +1,16 @@
+
+body {
+  background-color: #474B4F;
+  background-image:     url("https://www.transparenttextures.com/patterns/escheresque.png");
+}
+
+#table {
+  margin: center;
+  width: 0;
+}
+
+#footer {  
+  position: absolute;
+  left: 7px;
+  bottom: 0;
+}
